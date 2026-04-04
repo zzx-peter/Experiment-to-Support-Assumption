@@ -1,4 +1,4 @@
-| step | Current Capability Ratio | Last $k$ steps Capability Ratio | bias |
+| step | True Capability Ratio | Last $k$ steps Capability Ratio | bias |
 |------|---------------|--------------|--------------|
 | 1    | 1.3679246249  | 1.3679245283 | 0.0000000706 |
 | 2    | 1.8688525430  | 1.6359649123 | 0.1246153056 |
